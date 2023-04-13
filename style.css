@@ -1,0 +1,18 @@
+* {
+    background-color: crimson;
+    font-family: "sans-serif", Calibri, Tahoma, sans-serif;
+}
+
+.header {
+    font-size: 4rem;
+    text-align: center;
+    color: whitesmoke;
+
+}
+
+.subHeader {
+    padding-top: 40px;
+    font-size: 2rem;
+    text-align: left;
+    color: whitesmoke;
+}
